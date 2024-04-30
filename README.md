@@ -5,8 +5,8 @@
 - [@yogeshvas](https://www.github.com/yogeshvas)
 
 ## Demo
-<div style="display: flex; flex-direction:row; text-align: center;">
-    <div style="display: flex; justify-content: center;">
+<div style="display: flex; flex-direction:column; text-align: center;">
+    <div style="display: flex;gap:20px; justify-content: center;">
         <img src="https://github.com/yogeshvas/kalesh/assets/130190342/2eb1b9cb-5daa-49aa-9ed9-aa6f2a8a3aff" width="200" title="hover text">
         <img src="https://github.com/yogeshvas/kalesh/assets/130190342/d92587cd-8f01-4632-ba40-e7367d2358af" width="200" title="hover text">
         <img src="https://github.com/yogeshvas/kalesh/assets/130190342/4817de69-5e7e-4dc8-9e9c-77da854d9901" width="200" title="hover text">
