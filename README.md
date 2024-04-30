@@ -8,7 +8,8 @@
 
 https://github.com/yogeshvas/kalesh/assets/130190342/5d9fd8df-b536-41c3-a688-9896d97a3b7d
 
-## try apk: https://drive.google.com/drive/folders/177dnC3z1RbiPnZcjmuUFQvoCTDr_n80z?usp=sharing
+## Download
+try apk: https://drive.google.com/drive/folders/177dnC3z1RbiPnZcjmuUFQvoCTDr_n80z?usp=sharing
 
 ## Run Locally
 Clone the project
