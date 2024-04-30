@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "mmdu",
-    "slug": "mmdu",
+    "name": "Kalesh",
+    "slug": "kalesh",
+    "scheme": "kalesh",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -15,16 +16,30 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "package": "com.khair.kalesh",
+      "bundleIdentifier": "com.khair.kalesh"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.khair.kalesh"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "e973f21f-b100-40e3-9784-88720c5f475c"
+      }
     }
   }
 }
