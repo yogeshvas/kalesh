@@ -5,7 +5,8 @@
 - [@yogeshvas](https://www.github.com/yogeshvas)
 
 ## Demo
-![Simulator Screenshot - iPhone 15 - 2024-05-01 at 04 30 51](https://github.com/yogeshvas/kalesh/assets/130190342/2eb1b9cb-5daa-49aa-9ed9-aa6f2a8a3aff) <br>
+![Simulator Screenshot - iPhone 15 - 2024-05-01 at 04 30 51]() <br>
+  <img src="https://github.com/yogeshvas/kalesh/assets/130190342/2eb1b9cb-5daa-49aa-9ed9-aa6f2a8a3aff" width="350" title="hover text">
 ![Simulator Screenshot - iPhone 15 - 2024-05-01 at 04 30 56](https://github.com/yogeshvas/kalesh/assets/130190342/d92587cd-8f01-4632-ba40-e7367d2358af) <br>
 ![Simulator Screenshot - iPhone 15 - 2024-05-01 at 04 31 40](https://github.com/yogeshvas/kalesh/assets/130190342/4817de69-5e7e-4dc8-9e9c-77da854d9901) <br>
 
