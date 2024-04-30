@@ -10,15 +10,6 @@ https://github.com/yogeshvas/kalesh/assets/130190342/5d9fd8df-b536-41c3-a688-989
 
 
 
-
-
-
-
-## Tech Stack
-
-**Client:** React Native Expo, NativeWind
-**Server:** Appwrite, Cloudinary
-
 ## Run Locally
 
 Clone the project
