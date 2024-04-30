@@ -15,13 +15,13 @@ try apk: https://drive.google.com/drive/folders/177dnC3z1RbiPnZcjmuUFQvoCTDr_n80
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/yogeshvas/kalesh.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd kalesh
 ```
 
 Install dependencies
